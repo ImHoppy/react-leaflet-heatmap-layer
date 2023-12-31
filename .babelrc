@@ -9,6 +9,8 @@
     "babel-plugin-syntax-trailing-function-commas",
     "babel-plugin-transform-async-to-generator",
     "babel-plugin-transform-exponentiation-operator",
+    "@babel/plugin-transform-spread",
+    "@babel/plugin-transform-modules-commonjs",
 
     "babel-plugin-transform-react-jsx",
     "babel-plugin-transform-flow-strip-types",
